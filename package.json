@@ -1,0 +1,9 @@
+{
+  "name": "iam-security-advisor",
+  "version": "1.0.0",
+  "description": "Chatbot IA expert cybersécurité IAM & ISO 27001 - POC 3",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
